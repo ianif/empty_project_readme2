@@ -1,2 +1,2 @@
-# empty_project_readme2
+# empty_project_readme
 <!-- artemis testing -->
