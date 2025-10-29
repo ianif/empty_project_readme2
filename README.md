@@ -1,4 +1,4 @@
-+<!-- Author is ARTEMIS -->
++<!-- Authors: ARTEMIS, IOANNA -->
 # empty_project_readme2
 +
 +# Performance Optimization Example
