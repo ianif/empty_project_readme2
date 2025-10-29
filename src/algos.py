@@ -7,7 +7,8 @@
 +reduce both runtime and memory usage.
 +"""
 +
-+from __future__ import annotations
++# Author is ARTEMIS
+from __future__ import annotations
 +
 +from typing import Iterable, List
 +
